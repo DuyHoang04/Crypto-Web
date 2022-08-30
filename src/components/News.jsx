@@ -10,7 +10,7 @@ const News = ({ limit }) => {
   // console.log(cryptoNews);
   return (
     <div>
-      <Title>ĐANG BỊ LỖI UPDATE SAU NHA ":))"</Title>
+      <Title>ĐANG BỊ LỖI THÔNG CẢM CHÚT ":))"</Title>
     </div>
   );
 };
